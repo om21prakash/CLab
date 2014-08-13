@@ -13,8 +13,6 @@ int main()
 	printf("Storage size for unsigned short : %d \n", sizeof(unsigned short));
 	printf("Storage size for short int : %d \n", sizeof(short int));
 	printf("Storage size for long : %d \n", sizeof(long));
-	printf("Minimum int positive value: %d\n", LNG_MIN );
-	printf("Maximum int positive value: %d\n", LNG_MAX );
 	printf("Storage size for unsigned long : %d \n", sizeof(unsigned long));
 	printf("Storage size for long int : %d \n", sizeof(long int));
 	printf("Storage size for char : %d \n", sizeof(char));
